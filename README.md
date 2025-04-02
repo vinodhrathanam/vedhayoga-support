@@ -30,4 +30,4 @@ If you need assistance or want to report an issue, please email us at vinvisions
 Current Version: 1.0.5
 
 ## Privacy Policy
-Our privacy policy can be found https://github.com/vinodhrathanam/vedhayoga-support/privacy 
+Our privacy policy can be found https://github.com/vinodhrathanam/vedhayoga-support/privacy.html
